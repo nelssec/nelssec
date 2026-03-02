@@ -9,7 +9,7 @@ Kubernetes security, cloud-native infrastructure, container security, and secure
 ## Projects
 
 - **[identity-chain](https://github.com/nelssec/identity-chain)** - Kubernetes identity and access analysis tool
-- **[vuln-prioritizer](https://github.com/nelssec/vuln-prioritizer)** - Vulnerability prioritization tool
+- **[vuln-prioritizer](https://github.com/nelssec/vuln_prioritizer)** - Vulnerability prioritization tool
 
 ---
 
