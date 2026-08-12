@@ -1,6 +1,6 @@
 # Andrew Nelson
 
-Senior Security Solutions Architect at Qualys | CNCF Kubestronaut
+Director, Engineering at Qualys | CNCF Kubestronaut
 
 ## Focus
 
